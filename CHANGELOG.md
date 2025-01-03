@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ff7a8c1`](https://github.com/stdlib-js/stdlib/commit/ff7a8c145900de9b8af74ba06e763b8113dcdec1) - **docs:** add missing spaces _(by Philipp Burckhardt)_
 -   [`79dd840`](https://github.com/stdlib-js/stdlib/commit/79dd840d5ba23c6dc524071c125deb4521ee5f9f) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dcumaxabs` [(#4139)](https://github.com/stdlib-js/stdlib/pull/4139) _(by Aayush Khanna, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`2ea848b`](https://github.com/stdlib-js/stdlib/commit/2ea848b62b686e1e9d861f7df25ece23a7d80798) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
