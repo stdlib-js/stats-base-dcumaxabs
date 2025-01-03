@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-01-03)
+
+<section class="features">
+
+### Features
+
+-   [`79dd840`](https://github.com/stdlib-js/stdlib/commit/79dd840d5ba23c6dc524071c125deb4521ee5f9f) - add C ndarray interface and refactor implementation for `stats/base/dcumaxabs` [(#4139)](https://github.com/stdlib-js/stdlib/pull/4139)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`79dd840`](https://github.com/stdlib-js/stdlib/commit/79dd840d5ba23c6dc524071c125deb4521ee5f9f) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dcumaxabs` [(#4139)](https://github.com/stdlib-js/stdlib/pull/4139) _(by Aayush Khanna, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`2ea848b`](https://github.com/stdlib-js/stdlib/commit/2ea848b62b686e1e9d861f7df25ece23a7d80798) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`fd70f66`](https://github.com/stdlib-js/stdlib/commit/fd70f66305c6bb5a01cfa5fa4e8b983703ab98d2) - **refactor:** update `stats/base/dcumaxabs` native addon from C++ to C [(#4073)](https://github.com/stdlib-js/stdlib/pull/4073) _(by Aayush Khanna)_
